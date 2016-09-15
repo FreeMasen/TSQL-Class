@@ -1,0 +1,118 @@
+﻿150,Furniture,82,1,150,17.50,Supplies
+160,Computer Equipment,19,1,160,116.54,MVS Online Library
+160,Computer Equipment,52,1,160,1083.58,MSDN
+160,Computer Equipment,68,1,160,936.93,Quarterly Maintenance
+170,Other Equipment,97,1,170,356.48,Network wiring
+400,Book Printing Costs,102,1,400,20551.18,CICS book printing
+400,Book Printing Costs,106,1,400,23517.58,DB2 book printing
+400,Book Printing Costs,112,1,400,10976.06,VSAM book printing
+400,Book Printing Costs,96,1,400,26881.40,MVS JCL
+400,Book Printing Costs,89,1,400,85.31,Book copy
+400,Book Printing Costs,65,1,400,6940.25,OS Utilities
+400,Book Printing Costs,39,1,400,37966.19,CICS Desk Reference
+400,Book Printing Costs,43,1,400,21842.00,Book repro
+403,Book Production Costs,40,1,403,639.77,Card deck
+403,Book Production Costs,54,1,403,313.55,Card revision
+403,Book Production Costs,32,1,403,953.10,Crash Course revision
+403,Book Production Costs,36,1,403,565.15,Crash Course Ad
+403,Book Production Costs,9,1,403,601.95,Cover design
+403,Book Production Costs,77,1,403,904.14,Cover design
+403,Book Production Costs,78,1,403,1197.00,Cover design
+403,Book Production Costs,109,1,403,1000.46,Crash Course covers
+507,UCI,35,1,507,1600.00,Income Tax
+510,Group Insurance,50,1,510,116.00,Health Insurance
+510,Group Insurance,46,1,510,224.00,Health Insurance
+510,Group Insurance,113,1,510,224.00,Health Insurance
+520,Building Lease,24,1,520,1750.00,Warehouse lease
+521,Utilities,92,1,521,16.62,Propane-forklift
+522,Telephone,49,1,522,16.33,Telephone (line 6)
+522,Telephone,91,1,522,32.70,Telephone (line 4)
+522,Telephone,83,1,522,39.77,Telephone (Line 2)
+522,Telephone,8,1,522,95.00,Telephone service
+522,Telephone,13,1,522,16.33,Telephone (line 5)
+522,Telephone,44,1,522,19.67,Telephone (Line 3)
+522,Telephone,53,1,522,46.21,Telephone (Line 1)
+523,Building Maintenance,29,1,523,450.00,Back office additions
+540,Direct Mail Advertising,27,1,540,207.78,Prospect list
+540,Direct Mail Advertising,12,4,540,478.00,Publishers Marketing
+540,Direct Mail Advertising,69,1,540,175.00,Card deck advertising
+540,Direct Mail Advertising,78,2,540,765.13,Catalog design
+540,Direct Mail Advertising,79,1,540,2184.50,PC card deck
+540,Direct Mail Advertising,110,1,540,90.36,Card deck advertising
+552,Postage,73,1,552,290.00,International pkg.
+553,Freight,75,1,553,27.00,Freight
+553,Freight,76,1,553,241.00,Int'l shipment
+553,Freight,70,1,553,6.00,Freight
+553,Freight,71,1,553,108.50,Freight
+553,Freight,72,1,553,10.00,Address correction
+553,Freight,66,1,553,31.95,Freight
+553,Freight,67,1,553,1927.54,Freight
+553,Freight,58,1,553,53.25,Freight
+553,Freight,59,1,553,13.75,Freight
+553,Freight,60,1,553,2312.20,Freight
+553,Freight,61,1,553,25.67,Freight out
+553,Freight,62,1,553,26.75,Freight
+553,Freight,63,1,553,2115.81,Freight
+553,Freight,64,1,553,23.50,Freight
+553,Freight,45,1,553,2765.36,Freight
+553,Freight,41,1,553,53.75,Freight
+553,Freight,42,1,553,400.00,Freight
+553,Freight,51,1,553,2184.11,Freight
+553,Freight,48,1,553,33.00,Freight
+553,Freight,55,1,553,40.75,Freight
+553,Freight,14,1,553,6.00,Freight out
+553,Freight,17,1,553,10.00,Address correction
+553,Freight,18,1,553,104.00,Freight
+553,Freight,10,1,553,42.67,Freight
+553,Freight,11,1,553,42.50,Freight
+553,Freight,1,1,553,3813.33,Freight
+553,Freight,2,1,553,40.20,Freight
+553,Freight,3,1,553,138.75,Freight
+553,Freight,4,1,553,144.70,Int'l shipment
+553,Freight,5,1,553,15.50,Freight
+553,Freight,6,1,553,42.75,Freight
+553,Freight,7,1,553,172.50,Freight
+553,Freight,28,1,553,109.50,Freight
+553,Freight,25,1,553,129.00,Freight
+553,Freight,26,1,553,10.00,Freight
+553,Freight,20,1,553,6.00,Freight out
+553,Freight,22,1,553,108.25,Freight
+553,Freight,30,1,553,63.40,Freight
+553,Freight,37,1,553,36.00,Freight
+553,Freight,38,1,553,61.50,Freight
+553,Freight,34,1,553,127.75,Freight
+553,Freight,111,1,553,22.57,Freight
+553,Freight,107,1,553,3689.99,Freight
+553,Freight,108,1,553,67.00,Freight
+553,Freight,114,1,553,127.75,Freight
+553,Freight,103,1,553,2051.59,Freight
+553,Freight,104,1,553,44.44,Freight
+553,Freight,99,1,553,59.97,Freight
+553,Freight,100,1,553,67.92,Freight
+553,Freight,101,1,553,30.75,Freight
+553,Freight,80,1,553,2318.03,Freight
+553,Freight,81,1,553,26.25,Freight
+553,Freight,84,1,553,111.00,Freight
+553,Freight,85,1,553,158.00,Int'l shipment
+553,Freight,86,1,553,739.20,Freight
+553,Freight,87,1,553,60.00,Freight
+553,Freight,88,1,553,147.25,Freight
+553,Freight,90,1,553,38.75,Freight
+553,Freight,93,1,553,162.75,International shipment
+553,Freight,94,1,553,52.25,Freight
+570,Office Supplies,12,2,570,75.60,Kinko's
+570,Office Supplies,12,3,570,58.40,Office Max
+570,Office Supplies,74,1,570,41.80,Coffee
+572,"Books, Dues, and Subscriptions",56,1,572,2433.00,Card deck
+572,"Books, Dues, and Subscriptions",47,1,572,1575.00,Catalog ad
+572,"Books, Dues, and Subscriptions",16,1,572,9.95,Monthly access fee
+572,"Books, Dues, and Subscriptions",23,1,572,9.95,Monthly access fee
+572,"Books, Dues, and Subscriptions",95,1,572,600.00,Books for research
+572,"Books, Dues, and Subscriptions",98,1,572,579.42,Catalog ad
+574,Business Licenses and Taxes,15,1,574,856.92,Property Taxes
+580,Meals,12,1,580,50.00,DiCicco's
+582,Travel and Accomodations,105,1,582,503.20,Bronco lease
+589,Outside Services,21,1,589,4901.26,Office lease
+589,Outside Services,31,1,589,7125.34,Web site design
+589,Outside Services,57,1,589,1367.50,401K Contributions
+591,Accounting,33,1,591,220.00,Form 571-L
